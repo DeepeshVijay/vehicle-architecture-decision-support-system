@@ -1,1 +1,95 @@
+DURABILITY AND FIELD FAILURE CONSIDERATIONS
 
+Durability issues often emerge years after vehicle launch.
+Early architecture decisions strongly influence long-term field
+performance, warranty cost, and brand perception.
+
+
+1. DOOR AND CLOSURE RELATED FAILURES
+
+Common Issues:
+- Door sag over time
+- Hinge wear and misalignment
+- Wind noise development
+- Water leakage through seals
+
+Root Causes:
+- Insufficient hinge stiffness
+- High door mass without reinforcement
+- Tolerance stack-up
+- Inadequate corrosion protection
+
+Architecture-Level Mitigation:
+- Proper hinge load path design
+- Conservative stiffness assumptions
+- Robust sealing strategy
+- Early durability testing
+
+
+2. BIW STRUCTURAL AGING EFFECTS
+
+Common Issues:
+- Loss of local stiffness
+- Increased squeaks and rattles
+- Fatigue cracking at joints
+
+Root Causes:
+- Over-optimized lightweight structures
+- Inconsistent joining quality
+- Corrosion at load-bearing joints
+
+Architecture-Level Mitigation:
+- Balanced lightweighting strategy
+- Redundant load paths
+- Conservative joint design
+
+
+3. MATERIAL-RELATED FIELD FAILURES
+
+Steel Structures:
+- Corrosion at hem flanges
+- Fatigue at spot weld locations
+
+Aluminum Structures:
+- Impact sensitivity
+- Galvanic corrosion at mixed joints
+
+Composites and Plastics:
+- Aging and UV degradation
+- Delamination under thermal cycling
+
+Architecture-Level Mitigation:
+- Material isolation strategies
+- Surface protection and coatings
+- Clear repair strategies
+
+
+4. NVH DEGRADATION OVER VEHICLE LIFE
+
+Common Issues:
+- Increased wind noise
+- Rattles at interfaces
+- Seal hardening
+
+Root Causes:
+- Seal compression set
+- Loss of fastener preload
+- Structural relaxation
+
+Architecture-Level Mitigation:
+- Design for long-term sealing compression
+- Minimize interfaces
+- Avoid over-constrained joints
+
+
+5. FIELD FEEDBACK AND CONTINUOUS IMPROVEMENT
+
+Key Learnings:
+- Early cost-cutting often increases warranty cost
+- Simpler architectures age better
+- Manufacturing variation must be assumed, not ignored
+
+Architecture Responsibility:
+- Capture lessons learned
+- Feed field data into next programs
+- Prioritize robustness over marginal gains
