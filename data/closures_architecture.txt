@@ -1,1 +1,70 @@
+CLOSURES ARCHITECTURE OVERVIEW
 
+Closures include side doors, tailgates, hood, and related systems.
+They directly influence perceived quality, NVH, durability, safety,
+manufacturing complexity, and customer satisfaction.
+
+
+1. FRAMED DOOR SYSTEM
+
+Description:
+A door construction where the window glass is supported by a full
+metal frame surrounding the glass.
+
+Typical Applications:
+- Mass-market vehicles
+- SUVs
+- Vehicles targeting high NVH performance
+
+Pros:
+- Superior sealing performance
+- Improved wind noise control
+- Better long-term flush and gap stability
+- Lower warranty risk in harsh environments
+
+Cons:
+- Higher mass compared to frameless doors
+- Increased tooling and part count
+- Styling constraints due to visible frame
+
+Downstream Impacts:
+- Requires stronger A-pillar and roof rail interfaces
+- Enables simpler glass regulator design
+- Allows more robust weatherstrip design
+
+Durability and Field Risks:
+- Lower glass misalignment complaints
+- Reduced wind noise complaints over vehicle life
+- Better performance in dust, rain, and temperature variation
+
+
+2. FRAMELESS DOOR SYSTEM
+
+Description:
+A door construction without a metal frame around the window glass.
+Glass seals directly against body apertures.
+
+Typical Applications:
+- Premium sedans
+- Coupes
+- Styling-focused vehicles
+
+Pros:
+- Reduced mass
+- Improved styling and perceived sportiness
+- Lower beltline visual height
+
+Cons:
+- Higher sensitivity to body tolerances
+- Increased wind noise risk
+- Higher sealing and glass drop calibration effort
+
+Downstream Impacts:
+- Requires tighter BIW dimensional control
+- Strong dependency on glass regulator accuracy
+- Increased development effort for sealing performance
+
+Durability and Field Risks:
+- Higher risk of wind noise over time
+- Increased glass drop and seal wear issues
+- Sensitive to door sag and hinge wear
