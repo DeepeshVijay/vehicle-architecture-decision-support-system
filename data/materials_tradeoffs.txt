@@ -1,1 +1,133 @@
+VEHICLE MATERIALS TRADE-OFFS OVERVIEW
 
+Material selection at architecture level directly impacts vehicle mass,
+cost, crash performance, manufacturing complexity, repairability, and
+long-term durability. Decisions must be evaluated holistically rather
+than in isolation.
+
+
+1. MILD STEEL
+
+Description:
+Low carbon steel widely used in automotive structures due to its low cost
+and ease of forming.
+
+Typical Applications:
+- Non-critical structural members
+- Brackets
+- Inner panels
+
+Pros:
+- Lowest material cost
+- Excellent formability
+- Easy repairability
+- Mature supply chain
+
+Cons:
+- High mass
+- Limited strength
+- Not suitable for modern crash requirements without thickness increase
+
+Architecture-Level Implications:
+- Increases overall BIW mass
+- May negatively impact fuel efficiency or EV range
+- Simple manufacturing processes
+
+Durability and Field Considerations:
+- Good fatigue performance
+- Requires corrosion protection
+- Low repair cost in field
+
+
+2. HIGH STRENGTH STEEL (HSS / AHSS)
+
+Description:
+Steels engineered to provide higher strength-to-weight ratio compared to
+mild steel.
+
+Typical Applications:
+- Crash load paths
+- Pillars (A, B, C)
+- Rockers and side sills
+
+Pros:
+- Improved crash energy management
+- Reduced thickness for same strength
+- Cost-effective mass reduction
+
+Cons:
+- Reduced formability
+- Higher tool wear
+- More complex joining requirements
+
+Architecture-Level Implications:
+- Enables mass reduction without major cost penalty
+- Requires careful load path design
+- Influences stamping and springback control
+
+Durability and Field Considerations:
+- Higher sensitivity to manufacturing defects
+- Repair complexity increases
+- Requires trained service infrastructure
+
+
+3. ALUMINUM
+
+Description:
+Lightweight metal increasingly used for mass reduction, especially in EVs.
+
+Typical Applications:
+- Closures (hood, tailgate, doors)
+- Cast nodes
+- Extrusions in load paths
+
+Pros:
+- Significant mass reduction
+- Corrosion resistance
+- Improved vehicle efficiency
+
+Cons:
+- Higher material cost
+- Joining complexity
+- Higher repair cost
+
+Architecture-Level Implications:
+- Enables EV range improvement
+- Impacts BIW joining strategy
+- Requires isolation from steel to prevent galvanic corrosion
+
+Durability and Field Considerations:
+- Sensitive to impact damage
+- Requires specialized repair processes
+- Higher insurance and warranty cost
+
+
+4. COMPOSITES AND PLASTICS
+
+Description:
+Non-metallic materials used for localized mass reduction and design freedom.
+
+Typical Applications:
+- Liftgates
+- Exterior panels
+- Non-structural components
+
+Pros:
+- Lowest mass
+- Corrosion free
+- High design flexibility
+
+Cons:
+- High material and tooling cost
+- Limited structural capability
+- Recycling challenges
+
+Architecture-Level Implications:
+- Used selectively due to cost
+- Limited crash load carrying role
+- Affects manufacturing takt time
+
+Durability and Field Considerations:
+- Aging and UV degradation risks
+- Repairability challenges
+- Replacement often preferred over repair
