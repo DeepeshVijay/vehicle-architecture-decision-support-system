@@ -1,1 +1,100 @@
+MANUFACTURING IMPACTS ON VEHICLE ARCHITECTURE
 
+Manufacturing feasibility is a primary constraint in vehicle architecture.
+Early decisions directly affect capital investment, production volume,
+quality consistency, and long-term profitability.
+
+
+1. PRODUCTION VOLUME CONSIDERATIONS
+
+Low Volume Programs:
+- Favor simpler structures
+- Lower tooling investment preferred
+- Manual or semi-automated processes acceptable
+- Higher per-unit cost tolerated
+
+High Volume Programs:
+- Require high automation
+- Justify higher tooling and capital expenditure
+- Demand robust and repeatable designs
+- Tight process capability requirements
+
+Architecture Impact:
+- Platform selection driven by expected volume
+- Material and joining strategies depend on volume economics
+
+
+2. JOINING TECHNOLOGIES
+
+Spot Welding:
+- Widely used for steel BIW
+- Cost-effective and mature
+- Limited suitability for aluminum-intensive structures
+
+Laser Welding:
+- Enables continuous joints
+- Improves stiffness and sealing
+- Higher equipment cost and process sensitivity
+
+Structural Adhesives:
+- Improve load distribution
+- Enhance NVH and stiffness
+- Require curing time and process control
+
+Mechanical Fastening:
+- Used for mixed material joining
+- Increases part count and assembly time
+- Impacts serviceability
+
+Architecture Impact:
+- Joining strategy must align with material mix
+- Impacts line layout and takt time
+- Influences repair strategy
+
+
+3. TOLERANCE AND DIMENSIONAL CONTROL
+
+Key Considerations:
+- Door apertures
+- Glass sealing surfaces
+- Flush and gap consistency
+
+Architecture Impact:
+- Frameless doors demand tighter BIW tolerances
+- Mixed material structures increase dimensional variability
+- High stiffness structures reduce tolerance stack-up risk
+
+Manufacturing Risks:
+- Increased rework
+- Higher scrap rates
+- Customer-perceived quality issues
+
+
+4. PLATFORM COMMONALITY AND DERIVATIVES
+
+Benefits:
+- Shared tooling
+- Reduced development cost
+- Faster time-to-market
+
+Challenges:
+- Compromises in optimization
+- Weight and packaging penalties
+- Derivative-specific constraints
+
+Architecture Impact:
+- Early definition of hard points critical
+- Closure geometry must support derivatives
+- Manufacturing flexibility must be designed-in
+
+
+5. QUALITY AND FIELD FEEDBACK LOOP
+
+Manufacturing Reality:
+- Process variation is inevitable
+- Design must be robust to variation
+
+Architecture Impact:
+- Conservative tolerance assumptions reduce field issues
+- Simpler designs age better in mass production
+- Over-optimized designs increase warranty exposure
